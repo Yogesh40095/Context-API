@@ -1,0 +1,27 @@
+body{
+ 
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  
+ 
+}
+.header{
+
+
+  background-color: rgb(9, 9, 95);
+  color: whitesmoke;
+  padding: 20px;
+}
+.compa{
+  padding: 20px;
+  background-color: aqua;
+}
+.compb{
+  padding: 20px;
+  background-color: yellowgreen;
+}
+.compc{
+  padding: 20px;
+  background-color: pink;
+}
